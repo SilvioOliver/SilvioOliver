@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou análista de sistema
+Sou análista de Engenharia de Dados
 
 
 ## 🌐 Socials:
